@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://profile-summary-for-github.com/user/sumconsole">
+  <img align="left" height="300px" width="100%" src="https://github-readme-stats.vercel.app/api?theme=light&username=sumconsole&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="Suraj's GitHub stats"/>
